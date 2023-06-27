@@ -1,5 +1,5 @@
 # Prerequisites
-## node.js & npm
+## node.js & npm Installation
 ### Checking version
 Run the following command in Terminal to check node.js version:
 ```
