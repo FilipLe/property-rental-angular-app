@@ -5,7 +5,6 @@ A simple app that combines HTML web developing, JavaScript contenting, and CSS s
 
 ## Prerequisites
 #### Running the App
-<br>
 Terminal command:
 ```
 ng serve
