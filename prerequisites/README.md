@@ -43,6 +43,7 @@ Terminal command:
 ```
 ng serve
 ```
+
 <br>
 On web browser, open the following link:
 ```
