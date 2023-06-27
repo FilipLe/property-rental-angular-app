@@ -15,11 +15,13 @@ On web browser, open the following link:
 http://localhost:4200
 ```
 #### Installation Prequisites
-For installation prerequisites, check [../prerequisites](https://github.com/FilipLe/property-rental-angular-app/tree/master/prerequisites) for more.
+Check [../prerequisites](https://github.com/FilipLe/property-rental-angular-app/tree/master/prerequisites) for more.
 
 ## Stay in Touch
 Nguyen Le
 - [LinkedIn](http://linkedin.com/in/nguyenle04/)
+
+## Angular
 
 <p align="center">
   <a href="https://www.angular.io/" target="blank"><img src="https://angular.io/assets/images/logos/angular/angular.png" width = "100px" alt="Angular Logo" /></a>
