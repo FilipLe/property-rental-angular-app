@@ -1,7 +1,7 @@
-# Simple Angular Application to List Properties for Rental
+# Property Rental Angular Application
 
 ## Description 
-blah
+A simple Angular app that lists properties for rental and shows the details of individual houses.
 
 ## Prerequisites
 ### node.js & npm
