@@ -4,18 +4,18 @@
 blah
 
 ## Prerequisites
-#### node.js & npm
+### node.js & npm
 Run the following command in Terminal to check node.js version:
 ```
 node --version
 ```
 If a version number is displayed, then node.js is already installed on the device.
-<br><br> Otherwise, check [node.js documentation](https://nodejs.org/en/download/package-manager) for the installation process for select operating system (or as attached in the link below).
+<br><br> Otherwise, check [node.js documentation](https://nodejs.org/en/download/package-manager) for the installation process for select operating system <br>(or as attached in the link below).
 ```
 https://nodejs.org/en/download/package-manager
 ```
 
-#### Angular
+### Angular
 Once node.js and npm are installed, to install Angular run the following command in Terminal:
 ```
 npm install -g @angular/cli
