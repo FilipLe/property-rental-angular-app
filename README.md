@@ -1,7 +1,7 @@
 # Property Rental Angular Application
 
-<p align="center">
-  <a href="https://www.angular.io/" target="blank"><img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="Nest Logo" /></a>
+<p align="right">
+  <a href="https://www.angular.io/" target="blank"><img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="Angular Logo" /></a>
 </p>
 
 <p align="center">
