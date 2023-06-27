@@ -1,7 +1,10 @@
 # Property Rental Angular Application
 
 <p align="center">
-  <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="angular-logo" width="250px"/>
+  <a href="http://nestjs.com/" target="blank"><img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="200" alt="Nest Logo" /></a>
+</p>
+
+<p align="center">
   <br>
   <i>Angular is a development platform for building mobile and desktop web applications
     <br> using TypeScript/JavaScript and other languages.</i>
