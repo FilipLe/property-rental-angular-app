@@ -1,1 +1,1 @@
-New
+Angular Application to list properties for rental
