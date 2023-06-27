@@ -1,7 +1,7 @@
 # Property Rental Angular Application
 
 <p align="center">
-  <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="angular-logo" width="120px"/>
+  <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="angular-logo" width="250px"/>
   <br>
   <i>Angular is a development platform for building mobile and desktop web applications
     <br> using TypeScript/JavaScript and other languages.</i>
@@ -10,16 +10,6 @@
 
 <p align="center">
   <a href="https://www.angular.io"><strong>www.angular.io</strong></a>
-  <br>
-</p>
-
-<p align="center">
-  <a href="CONTRIBUTING.md">Contributing Guidelines</a>
-  ·
-  <a href="https://github.com/angular/angular/issues">Submit an Issue</a>
-  ·
-  <a href="https://blog.angular.io/">Blog</a>
-  <br>
   <br>
 </p>
 
