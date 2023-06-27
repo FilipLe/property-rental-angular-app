@@ -1,7 +1,7 @@
 # Property Rental Angular Application
 
 <p align="center">
-  <a href="https://www.angular.io/" target="blank"><img src="https://angular.io/assets/images/logos/angular/angular.png" width = "300px" alt="Angular Logo" /></a>
+  <a href="https://www.angular.io/" target="blank"><img src="https://angular.io/assets/images/logos/angular/angular.png" width = "100px" alt="Angular Logo" /></a>
 </p>
 
 <p align="center">
