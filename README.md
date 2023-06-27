@@ -13,11 +13,14 @@ node --version
 If a version number is displayed, then node.js is <u>already installed</u> on the device.
 
 #### Installation
-<br><br> Otherwise, check [node.js documentation](https://nodejs.org/en/download/package-manager) for the installation links for select operating system <br>(or as attached in the link below).
+Otherwise, check [node.js documentation](https://nodejs.org/en/download/package-manager) for the installation links for select operating system <br>(or as attached in the link below).
 ```
 https://nodejs.org/en/download/package-manager
 ```
-<br> Alternatively, run the following commands in Terminal:
+
+#### Alternative
+
+Alternatively, run the following commands in Terminal:
 
 ##### MacOS
 ```
