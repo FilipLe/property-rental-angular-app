@@ -16,7 +16,7 @@ import { HomeComponent } from './home/home.component';
       <app-home></app-home>
     </section>
   </main>
-`,
+  `,
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
