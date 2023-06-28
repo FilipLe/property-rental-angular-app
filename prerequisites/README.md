@@ -38,13 +38,23 @@ Run the following command in Terminal to install the dependencies needed to run 
 npm install
 ```
 
+## Installation for HTTP Communication
+Use npm in Terminal command and install the following to configure HTTP:
+```
+npm install -g json-server
+```
+
 ## Running the App
-Terminal command:
+Please follow the following steps:
+1. Terminal command to start build program:
 ```
 ng serve
 ```
-
-On web browser, open the following link:
+2. Terminal command to fire up database:
+```
+json-server --watch db.json
+```
+3. On web browser, open the following link:
 ```
 http://localhost:4200
 ```
