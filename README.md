@@ -5,12 +5,16 @@ A simple app that combines HTML web developing, JavaScript contenting, and CSS s
 
 ## Prerequisites
 #### Running the App
-Terminal command:
+Please follow the following steps:
+1. Terminal command:
 ```
 ng serve
 ```
-
-On web browser, open the following link:
+2. Firing up database:
+```
+json-server --watch db.json
+```
+3. On web browser, open the following link:
 ```
 http://localhost:4200
 ```
